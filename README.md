@@ -30,7 +30,7 @@
 <th><b>Age</b></th> :<td>21-Jan-2021 09:00:02 UTC</td><br>
 </tr>
 <tr>
-<th><b>Owner</b><th>-<td>Marina John r.j.m</td><br>
+<th><b>Owner</b><th><td>Marina John r.j.m</td><br>
 </tr>
 <tr>
 <th><b>Popularity</b></th>-<td>0</td><br>
