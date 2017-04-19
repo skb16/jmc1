@@ -129,6 +129,5 @@
 <th>SEO Score</th>
 <td>54</td>
 </tr>
-
 </table>
 </html>
